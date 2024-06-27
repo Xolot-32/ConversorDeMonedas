@@ -28,7 +28,7 @@ Este proyecto es un Conversor de Moneda implementado en Java. Permite a los usua
 3. Utiliza la opción del menú para ver el historial de conversiones.
 
 ## Estructura del Proyecto
-- `Main.java`: Punto de entrada de la aplicación
+- `CurrencyConverter.java`: Punto de entrada de la aplicación
 - `UserInterface.java`: Maneja la interacción con el usuario
 - `ExchangeRateService.java`: Gestiona la obtención de tasas de cambio
 - `CurrencyConversionService.java`: Realiza las conversiones de moneda
